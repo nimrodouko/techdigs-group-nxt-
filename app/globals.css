@@ -25,3 +25,52 @@ body {
     text-wrap: balance;
   }
 }
+.mainbar {
+  background-color:darkgreen;
+  padding: 10px;
+}
+
+.mainbar a {
+  color: white;
+  padding: 0 15px;
+  text-decoration: none;
+}
+
+.mainbar a:hover {
+  color: #ddd;
+}
+.footer{
+  background-color:darkgreen;
+}
+.footerparagraph{
+  text-align: center;
+  color:white;
+}
+.top{
+  height:600px;
+  width:100%;
+  display:block;
+}
+.card{
+  display: inline-flex;
+}
+.bigcard{
+  padding:70px;
+}
+.shotguncard{
+  width:auto;
+  padding: 70px;
+}
+.assaultguncard{
+  width:auto;
+  padding:70px;
+}
+.revolverguncard{
+  width:auto;
+  padding:70px;
+}
+.title{
+  text-align: center;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 40px;
+}
